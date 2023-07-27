@@ -1,19 +1,44 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Tentang Nilai - Nilai Kami
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### **Kinerja dan Keandalan**
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Hosting terbaik harus menawarkan kinerja tinggi dan keandalan yang baik. Pastikan penyedia hosting memiliki server yang kuat dan handal sehingga situs web Anda dapat berjalan dengan lancar tanpa banyak gangguan.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### **Kecepatan Server**
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Waktu pemuatan halaman yang cepat adalah faktor kritis untuk kepuasan pengguna dan SEO. Cari hosting dengan kecepatan server yang tinggi untuk memastikan situs web Anda dapat diakses dengan cepat.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### **Dukungan Teknis**
+
+Penyedia hosting terbaik harus menyediakan dukungan teknis yang responsif dan berkualitas. Pastikan Anda dapat mengandalkan tim dukungan untuk membantu Anda mengatasi masalah teknis dengan cepat.
+
+### **Fitur Hosting**
+
+Periksa fitur yang ditawarkan dalam paket hosting. Pastikan Anda mendapatkan fitur-fitur penting seperti ruang penyimpanan yang cukup, bandwidth yang memadai, database, dan opsi untuk mengelola situs web dengan mudah.
+
+### **Skalabilitas**
+
+Pilih penyedia hosting yang memungkinkan Anda untuk dengan mudah meningkatkan kapasitas dan sumber daya saat situs web Anda berkembang.
+
+Keamanan
+
+Pastikan penyedia hosting memiliki langkah-langkah keamanan yang kuat untuk melindungi data dan informasi penting Anda dari ancaman keamanan online.
+
+### **Uptime**
+
+Uptime adalah waktu ketika situs web Anda tersedia untuk diakses oleh pengguna. Pilih hosting dengan tingkat uptime yang tinggi untuk memastikan situs web Anda selalu online.
+
+### **Garansi Uang Kembali**
+
+Fitur ini memungkinkan Anda mencoba hosting tanpa risiko. Jika Anda tidak puas dengan layanan, Anda dapat meminta pengembalian dana.
+
+### **Harga**
+
+Cari hosting yang sesuai dengan anggaran Anda, tetapi jangan hanya fokus pada harga rendah. Pastikan kualitas layanan tidak dikorbankan karena harga murah.
+
+### **Ulasan Pengguna**
+
+Baca ulasan pengguna dan testimoni untuk mendapatkan pandangan dari orang-orang yang telah menggunakan layanan hosting tersebut.
